@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""Welcome to DevOps Unofficial Drive Hording group 🔥 \nThis group is ment to upload movies, series or whatever u want to the club TD \nIf u dont get anything or encounter errors tag my master ❣️ Shadow n wait for his reply \n\nBasic commands are pre Available with opening slash\n\nEnjoy uploadin""", disable_web_page_preview=True)
+    await message.reply_text("""Welcome to Sangwan DevOps Unofficial torrent leech group 🔥 \nThis group is ment to upload movies, series or whatever u want to the club TD \nIf u dont get anything or encounter errors tag my master Akshay Sangwan n wait for his reply \n\nBasic commands are pre Available with opening slash\n\nEnjoy uploadin""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):

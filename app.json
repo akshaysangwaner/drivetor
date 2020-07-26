@@ -1,6 +1,6 @@
 {
-  "name": "Shadow Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @Shadow_ninja_legit!",
+  "name": "Drivetor",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @moviezz_on_demand",
   "keywords": [
     "telegram",
     "best",
@@ -14,9 +14,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/shadowninja024/drive-hording",
+  "repository": "https://github.com/akshaysangwaner/drivetor",
   "success_url": "https://t.me/Shadow_ninja_legit",
-  "website": "https://github.com/shadowninja024/drive-hording",
+  "website": "https://github.com/akshaysangwaner/drivetor",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
